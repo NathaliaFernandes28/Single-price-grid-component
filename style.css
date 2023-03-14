@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.flex-container {
+  display: grid;
+}
+.flex-container2 {
+  display: flex;
+  justify-content: center;
+}
+.joinCommunity {
+  background-color: white;
+  padding: 1rem;
+  padding-left: 1em;
+  box-shadow: 1px 1px 1px 1px rgb(99, 103, 102);
+  margin-left: 290px;
+  margin-right: 292px;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+.titleCommunity {
+  font-size: 25px;
+  margin-bottom: 15px;
+  color: #45b9b9;
+}
+
+.subtitleCommunity {
+  color: #84b026;
+  margin-bottom: 15px;
+  font-size: 17px;
+}
+.textCommunity {
+  line-height: 23px;
+  font-size: 15px;
+  width: 450px;
+  color: rgb(99, 103, 102);
+}
+
+.monthlySubscription {
+  background-color: #45b9b9;
+  padding: 2rem;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  margin-bottom: 8em;
+}
+.titleSubscription {
+  color: white;
+  font-size: 22px;
+  margin-bottom: 15px;
+}
+.subtitleSubscription {
+  color: rgb(208, 239, 239);
+  margin-right: 20px;
+}
+.textSubscription {
+  font-size: 15px;
+  margin-top: 15px;
+}
+span {
+  font-size: 27px;
+  color: white;
+}
+button {
+  background-color: #84b026;
+  padding: 15px;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  color: white;
+  margin-top: 25px;
+  width: 200px;
+  font-size: 15px;
+}
+.whyUs {
+  background-color: #83e1e1;
+  padding: 2em;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  margin-bottom: 8em;
+}
+.titleWhyUs {
+  color: white;
+  font-size: 26px;
+  margin-bottom: 15px;
+}
+.textWhyUs {
+  line-height: 20px;
+  color: white;
+  font-size: 14px;
+}
